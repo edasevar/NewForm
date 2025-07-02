@@ -1,0 +1,6 @@
+[submodule "formio"]
+	path = formio
+	url = https://github.com/edasevar/formio.git
+[submodule "formiojs"]
+	path = formiojs
+	url = https://github.com/edasevar/formio.js.git
